@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ggingggang</h1>
-<h3 align="center">learnings Languages to become full-stack developer</h3>
+<h3 align="center">Learning languages to become full-stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ggingggang05&label=Profile%20views&color=0e75b6&style=flat" alt="ggingggang05" /> </p>
 
